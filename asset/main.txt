@@ -224,7 +224,7 @@
                             </div>
                         </li>
                         <li class="extend-item">
-                            <div class="extend-item--title-body">
+                            <div class="extend-item--title-body"> 
                                 <h3 class="extend-item--h3">Những câu nói cho mình cảm hứng</h3>
                             </div>
                             <div class="slide">
